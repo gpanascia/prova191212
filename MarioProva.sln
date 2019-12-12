@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioProva", "MarioProva\MarioProva.csproj", "{0C6B2F8E-2730-4FCB-8028-39B14ABC41E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarioProvaFW", "MarioProvaFW\MarioProvaFW.csproj", "{B3778EA7-88AA-49F1-BACC-68DE9EF8CFC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C6B2F8E-2730-4FCB-8028-39B14ABC41E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6B2F8E-2730-4FCB-8028-39B14ABC41E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6B2F8E-2730-4FCB-8028-39B14ABC41E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6B2F8E-2730-4FCB-8028-39B14ABC41E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3778EA7-88AA-49F1-BACC-68DE9EF8CFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3778EA7-88AA-49F1-BACC-68DE9EF8CFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3778EA7-88AA-49F1-BACC-68DE9EF8CFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3778EA7-88AA-49F1-BACC-68DE9EF8CFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89B6266D-6A80-4C60-8AC1-FF02D862B5AB}
+	EndGlobalSection
+EndGlobal

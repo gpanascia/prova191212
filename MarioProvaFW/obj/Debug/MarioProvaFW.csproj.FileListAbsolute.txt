@@ -1,0 +1,9 @@
+D:\Repo\MarioProva\MarioProvaFW\bin\Debug\MarioProvaFW.exe.config
+D:\Repo\MarioProva\MarioProvaFW\bin\Debug\MarioProvaFW.exe
+D:\Repo\MarioProva\MarioProvaFW\bin\Debug\MarioProvaFW.pdb
+D:\Repo\MarioProva\MarioProvaFW\bin\Debug\System.Web.Http.OData.dll
+D:\Repo\MarioProva\MarioProvaFW\bin\Debug\Newtonsoft.Json.dll
+D:\Repo\MarioProva\MarioProvaFW\obj\Debug\MarioProvaFW.csprojAssemblyReference.cache
+D:\Repo\MarioProva\MarioProvaFW\obj\Debug\MarioProvaFW.csproj.CopyComplete
+D:\Repo\MarioProva\MarioProvaFW\obj\Debug\MarioProvaFW.exe
+D:\Repo\MarioProva\MarioProvaFW\obj\Debug\MarioProvaFW.pdb
